@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @vinitagiriya
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning Mern Stack
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on open-source web development projects
 - 📫 How to reach me vinitagiriya272004@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns:she/her
+- ⚡ Fun fact: I’m always on the lookout for the best local eats and sometimes use data analysis to find the top food spots in town!
 
 <!---
 vinitagiriya/vinitagiriya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
