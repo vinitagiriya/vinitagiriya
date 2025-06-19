@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vinitagiriya
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Mern Stack
+- 👀 I’m interested in Data Science|Machine Learning| Full Stack Web Development
+- 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on open-source web development projects
 - 📫 How to reach me vinitagiriya272004@gmail.com
 - 😄 Pronouns:she/her
